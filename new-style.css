@@ -1,0 +1,21 @@
+.bg {
+    background-image: url('./public/Background-50.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.playpen {
+    font-family: 'Playpen Sans', cursive, sans-serif;
+}
+
+.roboto {
+    font-family: Roboto, sans-serif;
+}
+
+.verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-wana {
+    background-color: #899624;
+}
