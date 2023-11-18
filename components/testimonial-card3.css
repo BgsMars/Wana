@@ -1,0 +1,26 @@
+.testimonial-card3-testimonial-card {
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+.testimonial-card3-image {
+  width: 200px;
+  object-fit: cover;
+}
+.testimonial-card3-testimonial {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.testimonial-card3-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+@media(max-width: 479px) {
+  .testimonial-card3-testimonial-card {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+}
